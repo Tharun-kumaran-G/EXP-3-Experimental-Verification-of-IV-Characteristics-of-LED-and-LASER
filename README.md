@@ -76,6 +76,12 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 
 ---
 
+## MODEL GRAPH
+
+<img width="603" height="461" alt="image" src="https://github.com/user-attachments/assets/294b03b2-0ec6-45a2-b48c-d1428c72c900" />
+
+---
+
 ## 📈 GRAPH
 
 ### LED
